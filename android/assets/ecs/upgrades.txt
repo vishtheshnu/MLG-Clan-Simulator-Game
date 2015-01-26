@@ -1,0 +1,2 @@
+Skips first 3 lines... Look at Bonuses.java for keys for upgrade type
+Format: Name \n image index \n upgrade quantity \n upgrade type \n flavor text
